@@ -1,0 +1,8 @@
+public class HelloLYIT 
+{
+ public static void main(String[] args) 
+	{
+ 		// Prints "Hello, halo , hi " as output
+ 		System.out.println("Hello, halo , hi ");
+ 	}
+}
